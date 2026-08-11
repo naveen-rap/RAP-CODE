@@ -1,0 +1,6 @@
+@EndUserText.label: 'service defination of draft'
+define service ZSRD_TRAVEL_NVN_D {
+  expose ZC_TRAVEL_NVN_D;
+  expose ZC_BOOKING_NVN_D;
+  expose ZC_SUPPLEMET_NVN_D;
+}
